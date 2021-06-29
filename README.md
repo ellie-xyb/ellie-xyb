@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![ellie-xyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellie-xyb)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellie-xyb&show_icons=true&locale=en&layout=compact" alt="hunteroi" />
+![ellie-xyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellie-xyb&show_icons=true&theme=radical)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellie-xyb&show_icons=true&locale=en&layout=compact&theme=radical" alt="hunteroi" />
 
 <!--
 **ellie-xyb/ellie-xyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
