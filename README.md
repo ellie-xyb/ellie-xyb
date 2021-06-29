@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![ellie-xyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellie-xyb&show_icons=true&theme=radical)
+![ellie-xyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellie-xyb&show_icons=true)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ellie-xyb&show_icons=true&locale=en&layout=compact&theme=radical" alt="hunteroi" />
 
