@@ -7,7 +7,7 @@ I'm a full-stack developer from China, living and working in Tokyo, Japan.
 Outside of work I like boxing and bouldering.
 
 🇬🇧 English OK!  
-🇯🇵 日本語でも大丈夫!  
+🇯🇵 日本語でも大丈夫です!  
 🇨🇳 中文是我的母语，也會一點點粵語！
 
 ### Recent Projects
