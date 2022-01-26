@@ -12,16 +12,16 @@ Outside of work I like boxing and bouldering.
 
 ### Recent Projects
 
+ - [Note Calendar(WIP)](https://github.com/ellie-xyb/block-note-calendar)
  - [Aprooft: Social proof for your product pages](https://github.com/aprooft/aprooft)
  - [Pettoren: Pet-sitting for your pets](https://github.com/pet-sitting/pettoren)
  - [multi-select-calendar: Preact calendar supporting arbitrary day selection and i18n](https://github.com/ellie-xyb/multi-select-calendar)
 
+
 ### Recent Interests
 
  - Django
- - Rust
  - React
- - Flutter
 
 ### Languages & Tools
 
