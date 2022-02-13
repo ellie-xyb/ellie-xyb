@@ -23,6 +23,7 @@ Outside of work I like boxing and bouldering.
  - Django
  - React
  - Rust
+ - Docker
  - AWS
 
 ### Languages & Tools
